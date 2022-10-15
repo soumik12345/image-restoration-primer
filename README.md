@@ -2,7 +2,7 @@
 
 This repository contains notebooks for the talk **A Primer in Image Restoration** delivered at [ML Monthly Meetup #21](https://www.meetup.com/bangalore-ai-tech-talks/events/288947606/) organized by [Bangalore AI/ML/Data Developers Group](https://www.meetup.com/bangalore-ai-tech-talks/).
 
-The codebase demonstrates an implementation of the paper [**An All-in-One Network for Dehazing and Beyond**](https://arxiv.org/pdf/1707.06543.pdf) in [Tensorflow](https://tensorflow.org/) and a showcase on experiment results on [Weights & Biases](https://wandb.ai/geekyrakshit/image-dehazing).
+The codebase demonstrates an implementation of the paper [**An All-in-One Network for Dehazing and Beyond**](https://arxiv.org/pdf/1707.06543.pdf) in [Tensorflow](https://tensorflow.org/) and [Keras](https://keras.io) and a showcase on experiment results on [Weights & Biases](https://wandb.ai/geekyrakshit/image-dehazing).
 
 ## Notebooks
 
