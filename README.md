@@ -13,6 +13,7 @@ The codebase demonstrates an implementation of the paper [**An All-in-One Networ
 |3.|Evaluate the Model using Weights & Biases|[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soumik12345/BLR-ML-Monthly-Meetup/blob/main/notebooks/02_evaluation.ipynb)|
 |4.|Perform Inference on the Model|[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soumik12345/BLR-ML-Monthly-Meetup/blob/main/notebooks/03_inference.ipynb)|
 |5.|Interactive Demo|[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soumik12345/BLR-ML-Monthly-Meetup/blob/main/notebooks/04_demo.ipynb)|
+|5.|A Primer into Image Restoration using Keras|[![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg)](https://wandb.ai/geekyrakshit/image-dehazing/reports/A-Primer-into-Image-Restoration-using-Keras--VmlldzoyNzk4MjIw)|
 
 ## Citation
 
